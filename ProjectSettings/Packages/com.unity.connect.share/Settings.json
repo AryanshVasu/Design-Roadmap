@@ -1,0 +1,11 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"/home/spectre/Desktop/work_cache/roadmap_1;/home/spectre/Desktop/work_cache/roadmap;/home/spectre/Desktop/work_cache/roadmap_test;/home/spectre/Desktop/work_cache/roadmap_test3;/home/spectre/Desktop/roadmap_test3;/home/spectre/Desktop/roadmap_test2;/home/spectre/Desktop/roadmap_test1;;;\"}"
+            }
+        ]
+    }
+}
