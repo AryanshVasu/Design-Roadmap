@@ -1,2 +1,2 @@
 # Design-Roadmap
-A game to interactively provide design resources.
+Made by design studio IITR. A game to interactively provide design resources.
